@@ -46,7 +46,7 @@ WHERE
 payment.payment_id IS null
 OR
 customer.customer_id IS null
-;
+
 
 
 -- Empty Result meaning which means we are in compliance with this new privacy policy
